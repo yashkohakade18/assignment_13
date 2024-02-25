@@ -12,3 +12,16 @@
 .submit{
     background-color: aqua;
 }
+.icon{
+    height: 50px;
+    width: 50px;
+}
+.txt{
+    text-align: center;
+    
+}
+.info{
+    text-align: center;
+    padding-top: 20px;
+    font-weight: bolder;
+}
