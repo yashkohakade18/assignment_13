@@ -18,10 +18,19 @@
 }
 .txt{
     text-align: center;
-    
+    background-color: aqua;
 }
 .info{
     text-align: center;
-    padding-top: 20px;
+    
     font-weight: bolder;
+    font-size: larger;
+    background-color: aqua;
+}
+.theatreimg{
+margin-left: 190px;
+border: 20px aqua double;
+border-radius: 50px;
+    width: 1000px;
+    height: 500px;
 }
